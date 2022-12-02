@@ -15,7 +15,7 @@
 }
 
 .formContainer {
-  background-color: #1e52fe;
+  background-color: #b1b1b1;
   height: 100vh;
   display: flex;
   align-items: center;
@@ -214,15 +214,15 @@
         color: lightgray;
       }
 
-      .chatIcons {
-        display: flex;
-        gap: 10px;
+      // .chatIcons {
+      //   display: flex;
+      //   gap: 10px;
 
-        img {
-          height: 24px;
-          cursor: pointer;
-        }
-      }
+      //   img {
+      //     height: 24px;
+      //     cursor: pointer;
+      //   }
+      // }
 
       .messages {
         background-color: #ddddf7;
